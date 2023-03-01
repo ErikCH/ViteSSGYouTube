@@ -1,0 +1,7 @@
+type Post @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  title: String
+  content: String
+  slug: String
+  date: AWSDateTime
+}

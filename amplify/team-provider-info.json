@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-vitessg-dev-172651-authRole",
+      "UnauthRoleArn": "arn:aws:iam::127847013811:role/amplify-vitessg-dev-172651-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::127847013811:role/amplify-vitessg-dev-172651-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-vitessg-dev-172651-deployment",
+      "UnauthRoleName": "amplify-vitessg-dev-172651-unauthRole",
+      "StackName": "amplify-vitessg-dev-172651",
+      "StackId": "arn:aws:cloudformation:us-west-2:127847013811:stack/amplify-vitessg-dev-172651/a1abd460-b574-11ed-a105-0a708975e233",
+      "AmplifyAppId": "d3pxb5pb6n8tfu"
+    }
+  }
+}
